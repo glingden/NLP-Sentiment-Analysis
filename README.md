@@ -1,2 +1,2 @@
 # Naural Language Processing(NLP)
-Collection of NLP realeated works/projects
+Collection of NLP releated works/projects
